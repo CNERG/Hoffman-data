@@ -1,1 +1,7 @@
+datatest/
+tests/*
 */*.sqlite
+experiments/single_state/*sqlite
+experiments/single_state/2.5_test/*sqlite
+experiments/single_state/5_test/*sqlite
+experiments/single_state/7.5_test/*sqlite
